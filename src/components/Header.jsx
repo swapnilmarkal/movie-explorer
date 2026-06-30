@@ -33,7 +33,7 @@ function Header() {
         <nav className="nav-menu">
           <ul className="nav-links">
             <li>
-              <NavLink to="/" end>
+              <NavLink to="/movie-explorer/" end>
                 Home
               </NavLink>
             </li>
